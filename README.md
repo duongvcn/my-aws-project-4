@@ -1,4 +1,5 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/C3QTuE2xPrU7MuZhyNiUj4/HvMr6HiTwvAmABy2HkGDXx/tree/main.svg?style=svg&circle-token=7cfe0ce3b5ab0fd5ad3779bc9c6b5e1047750c83)](https://dl.circleci.com/status-badge/redirect/circleci/C3QTuE2xPrU7MuZhyNiUj4/HvMr6HiTwvAmABy2HkGDXx/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/duongvcn/my-aws-project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/duongvcn/my-aws-project-4/tree/main)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
