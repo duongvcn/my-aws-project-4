@@ -34,11 +34,14 @@ python3 -m pip install --user virtualenv
 python3 -m virtualenv --python=<path-to-Python3.7> .devops
 source .devops/bin/activate
 ```
+* Start Docker Desktop (Login to Docker)
+* Run `make setup` to create virtualenv
+* Run `source ~/.devops/bin/activate` to go to virtualenv
 * Run `make install` to install the necessary dependencies
 
 ### Running `app.py`
 
-1. Standalone:  `python app.py`
+1. Standalone:  `python app.py` Press CTRL+C to quit
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
 
